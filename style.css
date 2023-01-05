@@ -38,3 +38,26 @@ h6 {
   margin: 0 auto; 
   background-color: #E48D8B;
 }
+header {
+  max-width: 100%;
+}
+section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+
+}
+section.section-one {
+  background-color: #EDEDED;
+  display: flex;
+  justify-content: center;
+  height: 43px;
+}
+section.section-two {
+  background-color: #FBFBFB;
+  padding: 10px;
+}
+.section.container {
+  background: #FBFBFB;
+}
