@@ -36,7 +36,7 @@ h6 {
 .container{
   max-width: 1186px;
   margin: 0 auto; 
-  background-color: #E48D8B;
+  /* background-color: #E48D8B; */
   
 }
 header {
@@ -129,4 +129,10 @@ p.similar  {
 }
 .microphone p {
   width: 450px;
+}
+img.man {
+  width: 498px;
+}
+img.micro {
+  width: 512px;
 }
