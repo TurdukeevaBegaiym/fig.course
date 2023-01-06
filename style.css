@@ -108,3 +108,12 @@ p.similar  {
 .differ {
   width: 250px;
 }
+.podcast {
+  margin-top: 110px;
+}
+.podcast h2 {
+  width: 500px;
+}
+.podcast p {
+  width: 370px;
+}
