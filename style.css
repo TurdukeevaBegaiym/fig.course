@@ -117,3 +117,13 @@ p.similar  {
 .podcast p {
   width: 370px;
 }
+.micro {
+  margin-top:-60px;
+  margin-left: 50px;
+}
+.microphone h2 {
+  width: 475px;
+}
+.microphone p {
+  width: 493px;
+}
