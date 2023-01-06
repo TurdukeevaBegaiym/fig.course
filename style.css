@@ -73,7 +73,8 @@ section.section-two {
 }
 .row {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
+  width: 100%;
 }
 .successfulpodcast {
   width: 470px;
@@ -87,4 +88,23 @@ section.section-two {
 .col-6 {
   flex: 50% 1 1;
   margin-top: 100px;
+}
+.col-4 {
+  flex: 33.3% 1 1;
+  margin-top: 80px;
+}
+.mikrophone h3 {
+  width: 334px;
+}
+.person h3 {
+  width: 274px;
+}
+.shaika h3 {
+  width: 294px;
+}
+p.similar  {
+  width: 255px;
+} 
+.differ {
+  width: 250px;
 }
