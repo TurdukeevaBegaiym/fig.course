@@ -249,3 +249,7 @@ img.vec {
   background-color: #E48D8B;
   margin-top: 100px;
 }
+.card-content {
+  box-shadow: 5px 5px 5px black;
+  background-color:white;
+ }
