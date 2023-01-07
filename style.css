@@ -141,4 +141,24 @@ section.blue {
 }
 section.white {
   color:white;
+
+}
+.words {
+  display: flex;
+  justify-content: space-around;
+  
+}
+.count {
+  display: flex;
+  justify-content: space-around;
+  font-size: 80px;
+}
+section.blue h2 {
+  display: inline;
+
+}
+section.white .count {
+  font-size: 80px;
+  font-weight: 700;
+  margin: 0 30px;
 }
