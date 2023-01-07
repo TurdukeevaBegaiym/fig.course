@@ -253,3 +253,11 @@ img.vec {
   box-shadow: 5px 5px 5px black;
   background-color:white;
  }
+.checks {
+  display: flex;
+}
+img.check {
+  width: 22px;
+  height: 23px;
+  margin-top: 10px;
+}
