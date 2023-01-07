@@ -137,7 +137,7 @@ img.man {
 img.micro {
   width: 512px;
 }
-section.blue {
+section.bluee {
   background-color: #017CFF;
 }
 section.white {
@@ -222,7 +222,12 @@ strong {
 
 }
 .blue {
+  display:inline;
   background-color: #87CDFF;
   margin-left: 1127px;
   margin-top: 100px;
+}
+.question h2 {
+  margin-top: 50px;
+  font-weight: 400;
 }
