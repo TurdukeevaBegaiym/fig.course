@@ -162,3 +162,17 @@ section.white .count {
   font-weight: 700;
   margin: 0 30px;
 }
+.column {
+  padding: 0 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 600px;
+  height: 66px;
+  background-color:#DAD9D9;
+  margin: 8px 0;
+}
+.col-12 h2 {
+  text-align: center;
+  margin: 80px 0;
+}
