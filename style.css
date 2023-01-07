@@ -201,3 +201,8 @@ section.white .count {
 .col-3 {
   margin-top: 40px;
 }
+.darkblue-white {
+  background-color:#194677;
+  margin-top: 100px;
+  width: 100%;
+}
