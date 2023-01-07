@@ -239,3 +239,6 @@ img.vec {
   height: 7.35px;
   margin-top: 20px;
 }
+.thin {
+  font-weight: 400;
+}
