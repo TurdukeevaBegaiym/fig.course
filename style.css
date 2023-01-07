@@ -232,7 +232,10 @@ strong {
 }
 .line {
   display: flex;
+  justify-content: space-between;
 }
-.vec {
+img.vec {
   width: 14.11px;
+  height: 7.35px;
+  margin-top: 20px;
 }
