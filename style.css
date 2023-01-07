@@ -242,3 +242,10 @@ img.vec {
 .thin {
   font-weight: 400;
 }
+.white {
+  color: white;
+}
+.pinks {
+  background-color: #E48D8B;
+  margin-top: 100px;
+}
