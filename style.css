@@ -194,9 +194,6 @@ section.white .count {
 .tetragon {
   width: 59px;
   height: 59px;
-  background-color:#87CDFF;
-  margin-left: 1127px;
-  margin-top: 100px;
 }
 .col-3 {
   margin-top: 40px;
@@ -219,8 +216,13 @@ section.white .count {
 strong {
   color: #E48D8B;
 }
-.tetragon-pink {
-  width: 59px;
-  height: 59px;
-  color: #E48D8B;
+.pink {
+  background-color: #E48D8B;
+  margin-right: auto;
+
+}
+.blue {
+  background-color: #87CDFF;
+  margin-left: 1127px;
+  margin-top: 100px;
 }
