@@ -206,6 +206,11 @@ section.white .count {
   margin-top: 100px;
   width: 100%;
 }
+.content {
+  text-align: center;
+  margin: 50px 0 ;
+
+}
 strong {
   color: #E48D8B;
 }
