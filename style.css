@@ -228,6 +228,8 @@ strong {
   margin-top: 100px;
 }
 .question h2 {
-  margin-top: 50px;
   font-weight: 400;
+}
+.line {
+  display: flex;
 }
