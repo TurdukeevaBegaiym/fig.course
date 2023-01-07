@@ -180,7 +180,6 @@ section.white .count {
 
 .tetragon h2 {
   margin-top: 160px;
-  margin-bottom: 80px;
 }
 
 .twenty-sev {
@@ -198,4 +197,7 @@ section.white .count {
   background-color:#87CDFF;
   margin-left: 1127px;
   margin-top: 100px;
+}
+.col-3 {
+  margin-top: 40px;
 }
