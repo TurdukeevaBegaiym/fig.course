@@ -36,7 +36,7 @@ h6 {
 .container{
   max-width: 1186px;
   margin: 0 auto; 
-  background-color: #E48D8B; 
+  /* background-color: #E48D8B;  */
   
 }
 header {
@@ -191,4 +191,11 @@ section.white .count {
 }
 .forty-three {
   width: 243px;
+}
+.tetragon {
+  width: 59px;
+  height: 59px;
+  background-color:#87CDFF;
+  margin-left: 1127px;
+  margin-top: 100px;
 }
