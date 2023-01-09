@@ -273,4 +273,29 @@ img.check {
 }
 .col-4 .card-content {
   background-color: #EDEDED;
+  text-align: start;
+  padding: 30px;
+  width: 355px;
+
+}
+.jamie {
+  display: flex;
+  
+}
+.jamie p {
+  margin-left: 20px;
+}
+.matthew {
+  width: 230px;
+  text-align: start;
+  font-size: 16px;
+  font-weight: 400;
+  font-family:'Inter', sans-serif ;
+  
+}
+.col-4 {
+  flex: 33.3% 1 1;
+}
+h2.more {
+  text-align: center;
 }
