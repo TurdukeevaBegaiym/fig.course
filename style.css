@@ -311,3 +311,9 @@ footer {
 .terms {
   width: 74px;
 }
+.site p{
+  font-size: 15px;
+}
+.admin p {
+  font-size: 15px;
+}
