@@ -36,7 +36,7 @@ h6 {
 .container{
   max-width: 1186px;
   margin: 0 auto; 
-  /* background-color: #E48D8B;  */
+  background-color: #E48D8B; 
   
 }
 header {
@@ -302,4 +302,6 @@ img.check {
 h2.more {
   text-align: center;
 }
-
+footer {
+  background-color: #FBFBFB;;
+}
