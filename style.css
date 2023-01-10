@@ -327,3 +327,8 @@ footer section {
   font-size: 18px;
   font-weight: 400;
 }
+.gray {
+  font-size: 14px;
+  font-weight: 400;
+  color: #B1B1B1;
+}
