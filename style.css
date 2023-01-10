@@ -91,7 +91,10 @@ section.section-two {
 }
 .col-4 {
   flex: 33.3% 1 1;
-  margin-top: 80px;
+}
+.colfour {
+  margin-top: 160px;
+  margin-bottom: 50px;
 }
 .mikrophone h3 {
   width: 334px;
