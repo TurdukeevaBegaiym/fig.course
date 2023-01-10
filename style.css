@@ -256,18 +256,37 @@ img.vec {
   background-color:white;
   width: 430px;
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+
+ }
+ .nine {
+  font-size: 35px;
+  color: #017CFF;
+  font-weight: 400;
+ }
+ .twenty {
+  color: #757575;
+  font-size: 20px;
  }
 .checks {
   display: flex;
   margin-left: 50px;
+  padding: 0;
+}
+.btn {
+  margin-bottom: 30px;
+}
+.fair {
+  background-color: #87CDFF;
+  margin-right: auto;
+  margin-left: 160px;
+  margin-top: 80px;
 }
 img.check {
   width: 22px;
   height: 23px;
   margin-top: 10px;
-}
-.pinks {
-  display: flex;
 }
 .thirty {
   width: 230px;
@@ -298,9 +317,17 @@ img.check {
 }
 .col-4 {
   flex: 33.3% 1 1;
+  margin-top: 10px;
+}
+.up {
+  margin-top: 30px;
+}
+.upp {
+  margin-top: -45px;
 }
 h2.more {
   text-align: center;
+  margin-top: 100px;
 }
 footer {
   background-color: #FBFBFB;;
@@ -315,6 +342,10 @@ footer {
 }
 .site p{
   font-size: 15px;
+}
+.site {
+  margin-right:auto ;
+  margin-left: 400px;
 }
 .admin p {
   font-size: 15px;
