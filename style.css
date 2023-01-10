@@ -307,6 +307,8 @@ footer {
 }
 .coursley {
   margin-right: auto;
+  margin-bottom: auto;
+  margin-top: 20px;
 }
 .terms {
   width: 74px;
@@ -316,4 +318,12 @@ footer {
 }
 .admin p {
   font-size: 15px;
+}
+footer section {
+  padding: 20px 0 ;
+}
+.course {
+  width: 335px;
+  font-size: 18px;
+  font-weight: 400;
 }
