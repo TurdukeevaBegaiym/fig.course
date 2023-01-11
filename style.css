@@ -110,6 +110,11 @@ p.similar  {
   font-family: 'Inter', sans-serif;
   font-size: 18px;
 } 
+.teach {
+  font-size: 18px;
+  font-weight: 400;
+  font-family: 'Inter', sans-serif;
+}
 .differ {
   width: 250px;
   font-family: 'Inter', sans-serif;
