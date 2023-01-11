@@ -107,9 +107,11 @@ section.section-two {
 }
 p.similar  {
   width: 255px;
+  font-family: 'Inter', sans-serif;
 } 
 .differ {
   width: 250px;
+  font-family: 'Inter', sans-serif;
 }
 .podcast {
   margin-top: 110px;
