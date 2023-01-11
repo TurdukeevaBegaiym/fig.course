@@ -108,10 +108,12 @@ section.section-two {
 p.similar  {
   width: 255px;
   font-family: 'Inter', sans-serif;
+  font-size: 18px;
 } 
 .differ {
   width: 250px;
   font-family: 'Inter', sans-serif;
+  font-size: 18px;
 }
 .podcast {
   margin-top: 110px;
