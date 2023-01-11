@@ -394,3 +394,7 @@ footer section {
   font-weight: 400;
   color: #B1B1B1;
 }
+.underline {
+  color:#017CFF;
+  text-decoration: underline;
+}
