@@ -212,11 +212,15 @@ section.blue h2 {
   margin-right: auto;
 
 }
+.line {
+  margin-left: auto;
+  margin-right: auto;
+
+}
 .col-12 h2 {
   text-align: center;
   margin: 70px 0;
 }
-
 .tetragon h2 {
   margin-top: 160px;
 }
@@ -422,3 +426,15 @@ footer section {
   margin-left: 15px;
   margin-bottom: 100px;
 }
+@media screen and (min-width: 800px)and (max-width:1180px) {
+  .col-6 {
+    flex: 25%;
+    max-width: 25%;
+  }
+  .col-4 {
+    flex:15%;
+    max-width: 15%;
+  
+
+  }
+} 
