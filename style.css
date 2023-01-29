@@ -90,6 +90,7 @@ section.section-two {
 }
 .col-4 {
   flex: 33.3% 1 1;
+  max-width: 33.3%;
 }
 .colfour {
   margin-top: 160px;
@@ -197,6 +198,7 @@ section.blue h2 {
 
 }
 
+
 .column {
   padding: 0 20px;
   display: flex;
@@ -206,6 +208,9 @@ section.blue h2 {
   height: 66px;
   background-color:#DAD9D9;
   margin: 8px 0;
+  margin-left: auto;
+  margin-right: auto;
+
 }
 .col-12 h2 {
   text-align: center;
@@ -230,6 +235,8 @@ section.blue h2 {
   height: 59px;
 }
 .col-3 {
+  flex: 25% 1 1;
+  max-width: 25%;
   margin-top: 40px;
 }
 .darkblue-white {

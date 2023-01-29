@@ -1,0 +1,17 @@
+
+@media screen and(min-width:800px)and(max-width:1180px) {
+  .section-two {
+    max-width: 50%;
+  }
+  .woman {
+    width: 250px;
+  }
+  .sextion-one {
+    max-width: 100%;
+  }
+  .col-4 {
+    width:10px;
+  }
+  
+  
+}
