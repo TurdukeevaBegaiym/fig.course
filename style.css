@@ -434,7 +434,9 @@ footer section {
   .col-4 {
     flex:15%;
     max-width: 15%;
-  
-
+  }
+  .col-3 {
+    flex:12% ;
+    max-width: 12%;
   }
 } 
